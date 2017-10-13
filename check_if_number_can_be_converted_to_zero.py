@@ -1,5 +1,4 @@
 T = int(input())
-
 A = int(input())
 for i in range(1):
     B = [int(x) for x in input().split()]
