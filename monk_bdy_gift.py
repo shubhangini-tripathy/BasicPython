@@ -10,12 +10,6 @@ for i in range(B):
 print(count)
 
     
-
-# a = [1,2,3,4,5]
-# b = [1,2,3,4,6]
-# for i in range(len(b)):
-#     if b[i] in a:
-#         print("True")
     
 
     
